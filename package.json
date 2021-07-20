@@ -1,0 +1,23 @@
+{
+  "name": "nightwatchautomation",
+  "version": "1.0.0",
+  "description": "nightwatch automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginnyyadav/nightwatchAutomation.git"
+  },
+  "author": "ginny yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginnyyadav/nightwatchAutomation/issues"
+  },
+  "homepage": "https://github.com/ginnyyadav/nightwatchAutomation#readme",
+  "devDependencies": {
+    "chromedriver": "91.0.1",
+    "nightwatch": "1.7.7"
+  }
+}
